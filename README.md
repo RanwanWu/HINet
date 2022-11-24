@@ -19,7 +19,7 @@ Download the test data from [here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJd
            -NJUD\
        -test_in_train\
        
-# 3.Training & Testing
+# 3.Training/Testing & Evaluating
 * **Training the HINet**  
 
 Please download the released code and then:  
