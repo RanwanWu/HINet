@@ -20,13 +20,13 @@ Download the test data from [here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJd
        -test_in_train\
        
 # 3.Training & Testing
-* **Training the PSNet**  
+* **Training the HINet**  
 
 Please download the released code and then:  
   
     run python Train.py  
 
-* **Testing the PSNet**  
+* **Testing the HINet**  
 
 Please download the [model parameters]()[code:NEPU] and then:  
 
