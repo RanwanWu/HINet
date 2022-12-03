@@ -1,12 +1,12 @@
 # Cross-modal Hierarchical Interaction Network for RGB-D Salient Object Detection
 ![image](figs/HINet.png)  
    Figure.1 The overall architecture of the proposed HINet model.  
-   The paper can be downloaded from [here](https://pan.baidu.com/s/1ttaUKii1ANSscdP0At6k-Q), which is published in Patern Recognition 😸.
+   The paper can be downloaded from [here](https://pan.baidu.com/s/1ttaUKii1ANSscdP0At6k-Q), which is published in Patern Recognition 🎆.
 # 1.Requirements
 Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
-Download the test data from 🤌[here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJdaA)[code:NEPU], test_in_train data from [here](https://pan.baidu.com/s/15pUzASvTaBV9swHzpwBBhA 
+Download the test data from [here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJdaA)[code:NEPU], test_in_train data from [here](https://pan.baidu.com/s/15pUzASvTaBV9swHzpwBBhA 
 )[code:NEPU]. Then put them under the following directory:  
 
     -Dataset\   
