@@ -6,7 +6,7 @@
 Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
-Download the test data from [here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJdaA)[code:NEPU], test_in_train data from [here](https://pan.baidu.com/s/15pUzASvTaBV9swHzpwBBhA 
+Download the test data from 🤌[here](https://pan.baidu.com/s/1SSxeqTsc1buN4JMglbJdaA)[code:NEPU], test_in_train data from [here](https://pan.baidu.com/s/15pUzASvTaBV9swHzpwBBhA 
 )[code:NEPU]. Then put them under the following directory:  
 
     -Dataset\   
