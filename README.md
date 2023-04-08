@@ -28,6 +28,7 @@ Please download the released code and then:
 
 * **Testing the HINet**  
 
+Please complete the training and then:  
 
     run python Test.py  
 
