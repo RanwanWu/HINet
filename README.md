@@ -28,8 +28,6 @@ Please download the released code and then:
 
 * **Testing the HINet**  
 
-Please download the [model parameters]()[code:NEPU] and then:  
-
     run python Test.py  
 
 Then the test maps will be saved to './Salmaps/'
