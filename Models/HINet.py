@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torchvision.models as models
-from ResNet import ResNet50
+from Models.ResNet import ResNet50
 from torch.nn import functional as F
 
 
