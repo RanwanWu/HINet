@@ -6,7 +6,7 @@ sys.path.append('./models')
 import numpy as np
 from datetime import datetime
 from torchvision.utils import make_grid
-from models.HINet import HINet
+from Models.HINet import HINet
 from data import get_loader,test_dataset
 from utils import clip_gradient, adjust_lr
 from tensorboardX import SummaryWriter
