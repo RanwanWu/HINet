@@ -28,7 +28,8 @@ Please download the released code and then:
 
 * **Testing the HINet**  
 
-Please complete the training or download the pre-trained weights from [Google](https://drive.google.com/file/d/1j3gNI0WATtn-W92QFJm6LDt0RCpg7NH_/view?usp=drive_link), and then:  
+Please complete the training or download the pre-trained weights from [here](https://pan.baidu.com/s/1kgRlkXkRCI_NCgFKlZZgHQ 
+)[code:NEPU] or [Google](https://drive.google.com/file/d/1j3gNI0WATtn-W92QFJm6LDt0RCpg7NH_/view?usp=drive_link), and then:  
 
     run python Test.py  
 
